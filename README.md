@@ -18,8 +18,7 @@
   </a>
 </div>
   
-https://komarev.com/ghpvc/?username=MargaridaR30
-<img src="https://komarev.com/ghpvc/?username=MargaridaR30&style=flat-square&color=pink" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MargaridaR30&style=flat-square&color=green" alt=""/>
 
 ### GitHub Statistics
 
