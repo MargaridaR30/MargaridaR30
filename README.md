@@ -33,7 +33,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp; 
        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp; 
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R"  alt="Rsoftware" width="40" height="40"/>&nbsp; 
-     <img src="https://mlyau5vyqpxz.i.optimole.com/w:430/h:106/q:mauto/f:avif/https://ampl.com/wp-content/uploads/2020/12/logo-inline-web-v4.png" title="AMPL"  alt="AMPL" width="40" height="40"/>&nbsp;  
+     <img src="https://rampl.readthedocs.io/en/latest/_static/logo-inline-web-v4.png" title="AMPL"  alt="AMPL" width="40" height="40"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
   
