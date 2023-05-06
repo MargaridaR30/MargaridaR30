@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/122ieBYC3AcECI/giphy.gif" width="100"/>
+</div>
+
+
 ## Margarida Rodrigues
 
 ### Bio
