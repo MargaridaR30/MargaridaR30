@@ -19,7 +19,14 @@
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=MargaridaR30&style=flat-square&color=green" alt=""/>
-  
+
+---
+  <h3>Donation links:</h3>
+
+<a href="https://www.paypal.com/paypalme/MRodrigues330">
+<img alt="Paypal" src="https://img.shields.io/badge/PayPal.me/MRodrigues330-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
+
   
 ---
 
