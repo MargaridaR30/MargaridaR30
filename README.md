@@ -1,5 +1,14 @@
-### Hi there 👋
+## Margarida Rodrigues
 
-![Margarida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MargaridaR30&theme=discord_old_blurple&show_icons=true)
+### Bio
+
+- 20 years old 
+- Currently on my 3rd and last year of my  Bachelor’s Degree in Mathematics🤔💭🔢✖️🧮
+
+### GitHub Statistics
+
+![Margarida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MargaridaR30&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MargaridaR30&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MargaridaR30&theme=dark&hide_border=true)](https://git.io/streak-stats)
